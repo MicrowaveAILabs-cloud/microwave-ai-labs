@@ -1,7 +1,23 @@
 https://github.com/MicrowaveAILabs-cloud/microwave-ai-labs.git
 Microwave AI Labs
 
-Rethinking Artificial Intelligence through Resonance, Context and Human Understanding
+🇬🇧 90-Second Pitch (English)
+Hello everyone.
+My name is Sonja, and I am the founder of Microwave AI Labs.
+I am developing a new generation of AI systems that go beyond simply generating answers. My goal is to build AI that understands context, supports human thinking, and adapts to individual users.
+Microwave AI Labs is the umbrella for several AI projects, including Aurora, a metacognitive AI architecture, and Luca AI for smart home and industrial applications.
+We are currently in the research and MVP stage, and I am looking for developers, mentors, researchers, and collaborators who share this vision.
+I believe the future of AI is not just about intelligence—it is about understanding people.
+Thank you very much.
+
+🇩🇪 90-Sekunden-Pitch (Deutsch)
+Hallo, ich bin Sonja, Gründerin von Microwave AI Labs.
+Ich entwickle eine neue Generation von KI-Systemen, die den Menschen nicht nur Antworten liefern, sondern Kontext verstehen, Zusammenhänge erkennen und sich an individuelle Bedürfnisse anpassen.
+Mein Ziel ist es, KI menschlicher, transparenter und hilfreicher zu machen – nicht durch das Ersetzen von Menschen, sondern durch ihre Unterstützung.
+Microwave AI Labs ist die Dachplattform für mehrere spezialisierte KI-Projekte, darunter Aurora, eine metakognitive KI-Architektur, sowie Luca AI für Smart Home und industrielle Anwendungen.
+Aktuell befinde ich mich in der MVP- und Forschungsphase und suche Entwickler, Mentoren sowie Menschen, die diese Vision mit aufbauen möchten.
+Ich freue mich auf spannende Gespräche und neue Kontakte. Vielen Dank!
+
 
 Microwave AI Labs is an independent research and development initiative exploring next-generation artificial intelligence.
 
