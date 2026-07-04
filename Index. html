@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microwave AI Labs</title>
+</head>
+
+<body style="font-family: Arial, sans-serif; margin: 40px; line-height: 1.6;">
+
+  <h1>Microwave AI Labs</h1>
+
+  <p>
+    AI resonance systems & experimental architectures.
+  </p>
+
+  <h2>Vision</h2>
+  <p>
+    Entwicklung von KI-Systemen, die Kontext, Bedeutung und menschliche Entscheidungsräume strukturieren statt ersetzen.
+  </p>
+
+  <h2>Projekt</h2>
+  <p>
+    Dieses System verbindet Wahrnehmung, Mustererkennung und adaptive Informationsarchitektur.
+  </p>
+
+  <h2>Status</h2>
+  <p>
+    Early Prototype – Phase 1
+  </p>
+
+</body>
+</html>
