@@ -1,25 +1,46 @@
 https://github.com/MicrowaveAILabs-cloud/microwave-ai-labs.git
-Microwave AI Labs
+Microwave AI Labs/New Name:OrionOS AI Labs 
 
-🇬🇧 90 Second Pitch (English)
-Hello everyone.
-My name is Sonja, and I am the founder of Microwave AI Labs.
-I am developing a new generation of AI systems that go beyond simply generating answers. My goal is to build AI that understands context, supports human thinking, and adapts to individual users.
-Microwave AI Labs is the umbrella for several AI projects, including Aurora, a metacognitive AI architecture, and Luca AI for smart home and industrial applications.
-We are currently in the research and MVP stage, and I am looking for developers, mentors, researchers, and collaborators, and Investors who share this vision.
-I believe the future of AI is not just about intelligence it is about understanding people.
-Thank you very much.
+90 second pitch (English Version) 
 
-🇩🇪 90 Sekunden Pitch (Deutsch)
-Hallo, ich bin Sonja, Gründerin von Microwave AI Labs.
-Ich entwickle eine neue Generation von KI Systemen, die den Menschen nicht nur Antworten liefern, sondern Kontext verstehen, Zusammenhänge erkennen und sich an individuelle Bedürfnisse anpassen.
-Mein Ziel ist es, KI menschlicher, transparenter und hilfreicher zu machen, nicht durch das Ersetzen von Menschen, sondern durch ihre Unterstützung.
-Microwave AI Labs ist die Dachplattform für mehrere spezialisierte KI Projekte, darunter Aurora, eine metakognitive KI Architektur, sowie Luca AI für Smart Home und industrielle Anwendungen.
-Aktuell befinde ich mich in der MVP und Forschungsphase und suche Entwickler, Mentoren, Investoren sowie Menschen, die diese Vision mit aufbauen möchten.
-Ich freue mich auf spannende Gespräche und neue Kontakte. Vielen Dank!
+Hello, my name is Dominic (Sonja) Weiler.
+
+I am developing OrionOS AI, a platform for the next generation of understandable artificial intelligence.
+
+The starting point of my research is the Qualia problem:
+Does an AI need subjective experience in order to meaningfully support humans?
+
+I believe the answer is no.
+
+With Aurora, I am developing a metacognitive AI architecture that does not only process information, but also places meaning into context, makes information understandable, and supports humans in making better decisions.
+
+I am not developing an AI that is meant to replace humans.
+
+I am developing an AI that is designed to enhance human understanding, support reflection, and create a deeper connection between technology and human needs. 
 
 
-Microwave AI Labs is an independent research and development initiative exploring next-generation artificial intelligence.
+OrionOS AI 90 Sekunden Pitch(Deutsch) 
+
+Hallo, ich bin Dominic (Sonja) Weiler.
+
+Ich entwickle OrionOS AI, eine Plattform für die nächste Generation verständlicher künstlicher Intelligenz.
+
+Ausgangspunkt meiner Forschung ist das Qualia Problem: Muss eine KI überhaupt subjektives Erleben besitzen, um Menschen sinnvoll zu unterstützen?
+
+Ich glaube: Nein.
+
+Mit Aurora entwickle ich deshalb eine metakognitive KI Architektur, die Informationen nicht nur verarbeitet, sondern sie in Kontext setzt, verständlich macht und den Menschen dabei unterstützt, bessere Entscheidungen zu treffen.
+
+Ich entwickle keine KI, die den Menschen ersetzen soll. Ich entwickle eine KI, die den Menschen versteht.
+
+Meine Vision sind KI Assistenzsysteme, die Risiken frühzeitig erkennen, Informationen sinnvoll strukturieren und Menschen im Alltag, im Gesundheitswesen, in Unternehmen und in sicherheitskritischen Bereichen unterstützen immer transparent, nachvollziehbar und verantwortungsvoll.
+
+Ich suche Menschen, die diese Vision mit mir verwirklichen möchten. Entwicklerinnen und Entwickler, Forschungspartner sowie Investoren,Interessenten die an den nächsten Schritt intelligenter Assistenzsysteme glauben.
+
+Vielen Dank.
+
+
+Microwave AI Labs (New Name:OrionOS AI Labs) is an independent research and development initiative exploring next-generation artificial intelligence.
 
 Our goal is to build AI systems that combine contextual memory, adaptive reasoning and human centered interaction instead of simple prompt-response behavior.
 
@@ -37,17 +58,17 @@ Research Areas
 
 Core Projects
 
-Aurora / Auralis
+Aurora
 
-A resonance based AI architecture focused on contextual understanding, adaptive interaction and long-term learning.
+A resonance based AI architecture focused on contextual understanding, adaptive interaction and long term learning.
 
-Luca AI
+Luca AI 
 
-An execution layer designed for smart home automation, industrial systems and practical AI-assisted workflows.
+An execution layer designed for smart home automation, industrial systems and practical AI assisted workflows.
 
-CleanMind AI
+CleanMind AI Status: Prototype / Active Development Phase
 
-A clarity-focused AI assistant that supports structured thinking, mental organization and practical decision making.
+A clarity focused AI assistant that supports structured thinking, mental organization and practical decision making.
 
 Vision
 
@@ -72,5 +93,6 @@ Contact
 
 GitHub:
 Microwave AI Labs
-
+Facebook : Auralin die Zocker Lady KI 
+Gmail    : drachentoeter5@gmail.com 
 More information and project documentation will be published continuously.
